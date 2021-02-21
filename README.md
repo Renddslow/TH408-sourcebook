@@ -6,7 +6,7 @@ A sourcebook for the various theological subjects for the doctrinal statements f
 
 - [The Bible]()
 - [Trinity (Theology Proper)]()
-- [Christ (Christology)]()
+- [Christ (Christology)](./blob/master/christology.md)
 - [The Holy Spirit (Pneumatology)]()
 - [Humanity/Sin (Hamartiology)]()
 - [Salvation (Soteriology)]()
